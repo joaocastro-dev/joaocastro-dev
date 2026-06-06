@@ -84,7 +84,7 @@ Busco minha primeira oportunidade como Desenvolvedor Back-end Java Júnior, cont
 linkedin.com/in/joaocastro00429
 
 📧 E-mail:
-[seuemail@email.com](mailto:joaocastro_125@hotmail.com)
+[joaocastro_125@hotmail.com](mailto:joaocastro_125@hotmail.com)
 
 🐙 GitHub:
 github.com/joaocastro-dev
